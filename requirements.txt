@@ -1,6 +1,4 @@
 line-bot-sdk
 gunicorn
-<<<<<<< HEAD:requirements.txt
-=======
 flask
->>>>>>> c176aca (Fix requirements.txt):Requirements.txt
+
